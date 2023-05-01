@@ -1,8 +1,9 @@
-<div id="header">
-  
- 
-</div>
 
+<div align="center">Hi Folks</div>
+
+<div align="center">I'm Raul, a Software Developer guy passionated about Computer Science and technology</div>
+
+<div align="center">Made in Cuba :cuba: currently living in Houston, TX 🇺🇸</div>
 
 ### Skills and Tools
 
