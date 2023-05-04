@@ -30,7 +30,7 @@
 
 ## Social Media
 <div align="center">
-<a href="https://www.linkedin.com/in/raul-fern%C3%A1ndez-4a5577184/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/raulfdz98" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="https://www.kaggle.com/rjfedzsoto"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
 <a href="https://twitter.com/raulyfs11"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </div>
